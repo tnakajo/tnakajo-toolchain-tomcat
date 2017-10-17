@@ -7,4 +7,4 @@ applications:
    instances: 2
    buildpack: java_buildpack
    env:
-      JBP_CONFIG_TOMCAT: {tomcat: { context_path: "/w2c_management", version: 8.0.44 }}
+      JBP_CONFIG_TOMCAT: '{tomcat: { context_path: "/w2c_management", version: 8.0.44 }}'
