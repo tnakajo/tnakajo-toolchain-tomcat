@@ -4,5 +4,5 @@ applications:
    random-route: true
    path: target/GetStartedTomcat.war
    memory: 256M
-   instances: 1
+   instances: 2
    buildpack: java_buildpack
